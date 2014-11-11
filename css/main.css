@@ -117,6 +117,9 @@ a:hover {
 	background: lightblue;
 }
 
+.nav-link.active{
+	background: tomato;
+}
 /* Columns */
 
 
