@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I had for lunch yesterday
-image: http://kyleahealth.com/wp-content/uploads/2014/09/Yogurt.jpg
+image: http://images.huffingtonpost.com/2014-03-04-40_BigMac.jpg
 ---
 
-I had yogurt.
+I had a big mac.
